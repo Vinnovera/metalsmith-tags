@@ -28,5 +28,8 @@
     "metalsmith-templates": "~0.6.0",
     "mocha": "1.x",
     "moment": "^2.7.0"
+  },
+  "dependencies": {
+    "slug": "^0.9.1"
   }
 }
